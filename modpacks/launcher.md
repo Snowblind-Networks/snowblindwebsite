@@ -6,6 +6,7 @@ container_id: maps
 container_title: DH Launcher
 ---
 Digital Hazards now has a launcher from which to run our modpacks! Download it now to play on our servers and see sneak peeks of our new modpacks!
+Make sure you adjust your allocated RAM before playing! The settings screen can be found after you log in.
 
 ***Caveat: this will be shown on Microsoft SmartScreen as untrusted until we purchase a code signing certificate.***
 
