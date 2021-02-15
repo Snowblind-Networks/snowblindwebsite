@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{% include containerhead.html id="container_text" %}
+{{ content }}
+{% include containerfoot.html %}
+
+
+{% include containerhead.html id="container_gallery" %}
+{% include gallery.html id=page.id %}
+{% include containerfoot.html %}
+
+
+{% include containerhead.html id="container_links" title="Links" %}
+{% assign links = site.data.links[page.id] %}
+{% for link in links %}
+      <a class="btn hvr-reveal" href="{{ link.url }}" target="_blank">{{ link.content }}</a>
+{% endfor %}
+{% include containerfoot.html %}

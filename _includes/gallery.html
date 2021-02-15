@@ -1,0 +1,12 @@
+<div class="slideshow-container">
+  {% assign gallery = site.data.gallery[include.id] %}
+  {% for slide in gallery %}
+  <div class="mySlides fade">
+    {% if slide.caption %}
+    <div class="text">{{ slide.caption }}</div>
+    {% endif %}
+    <img src="{{ slide.img }}" style="width:100%">
+  </div>
+  {% endfor %}
+</div>
+<script src="/assets/js/slideme.js"></script>
