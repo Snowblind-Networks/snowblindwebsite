@@ -1,10 +1,10 @@
 ---
 layout: showcase
 nonmobile: true
-title: DH Farming Plus
+title: Snowblind Farming Plus
 id: farmingplus
 ---
-Welcome to Digital Hazards Farming Plus, a Farmville and Farming Simulator inspired modpack based around agriculture!
+Welcome to Snowblind Farming Plus, a Farmville and Farming Simulator inspired modpack based around agriculture!
 <br />
 Have fun living the simple country life, farming grain and tending animals. This modpack features some of the best farm-based mods such as Agricraft, Growthcraft, Forestry (with add-ons), Animania, and so much more.
 <br />

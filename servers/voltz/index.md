@@ -7,7 +7,7 @@ id: voltz
 ## Voltz Community Modpack
 - Modpack: [Voltz Community Modpack](https://voltzmodpack.com)
 - Minecraft version: 1.7.10
-- IP: vcm.digitalhazards.net
+- IP: vcm.snowblind.net.au
 - Notable plugins: McMMO, CombatTag, PvPLevels, PlayerHeads, DiscordSRV, ChestShop
 
 ##### Here at DH Voltz Community we provide the highest quality Voltz experience, with features such as:
