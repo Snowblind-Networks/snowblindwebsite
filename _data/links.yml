@@ -20,3 +20,8 @@ voltz:
     content: Vote for us on VoltzServers.com
   - url: https://technicservers.com/server/6DXrO9T8/digital-hazards-voltz-community
     content: Vote for us on TechnicServers.com
+launcher:
+  - url: http://launcher.snowblind.net.au:9274/SnowblindLauncher.exe
+    content: Download for Windows
+  - url: http://launcher.snowblind.net.au:9274/SnowblindLauncher.jar
+    content: Download for Mac / Linux

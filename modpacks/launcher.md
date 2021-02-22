@@ -1,8 +1,8 @@
 ---
-layout: singlecontainer
+layout: showcase
 nonmobile: true
 title: Snowblind Launcher
-container_id: maps
+id: launcher
 ---
 Snowblind now has a launcher from which to run our modpacks! Download it now to play on our servers and see sneak peeks of our new modpacks!
 
@@ -15,10 +15,6 @@ Windows: Oracle Java 8 (latest version), or OpenJDK 8 with JavaFX installed.
 
 Linux/Macintosh: OpenJDK 8 (latest version) with JavaFX enabled. JavaFX is usually enabled by default.
 
-### Links
-Windows: <http://launcher.snowblind.net.au:9274/SnowblindLauncher.exe>
-
-Linux/Macintosh: <http://launcher.snowblind.net.au:9274/SnowblindLauncher.jar>
 
 ### How to install JavaFX on Windows
 If your client complains about lack of JavaFX and you have OracleJRE 11 or OpenJDK 8/11, follow these instructions:

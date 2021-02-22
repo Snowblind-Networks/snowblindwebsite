@@ -12,3 +12,5 @@ voltz:
   - img: /images/modpacks/voltz/tech.png
   - img: /images/modpacks/voltz/asteroids.png
   - img: /images/modpacks/voltz/spawn2.png
+launcher:
+  - img: /images/infographic.png
