@@ -5,20 +5,27 @@
           <ul>
             {% if page.nonmobile %}<li><a href="#topNav"><i class="fa fa-arrow-up"></i></a></li>|{% endif %}
             
-            <li><a href="/terms">T's & C's</a></li>|
+	    <li><a href="/terms">T's & C's</a></li><!--|-->
             <!-- <li><a href="#">Cloud</a></li>| -->
-            <li><a href="https://uptimerobot.snowblind.net.au">Network Status</a></li>
+	    <!--<li><a href="https://uptimerobot.snowblind.net.au">Network Status</a></li>-->
           </ul>
         </div>
 
         <div class="right">
 {% if page.nonmobile %}
+    {% if page.colour == "orange" %}
+          <a href="https://www.ovh.com/us/" title="OVH Hosting"> <img src="/assets/mrep/uses/medievaltimes/logo-ovh.png" alt="OVH Hosting" height="30" width="30"></a>
+          <a href="https://github.com/" title="Our Github"> <img src="/assets/mrep/uses/medievaltimes/logo-github.png" alt="Our Github" height="30" width="30"></a>
+          <a href="https://www.buycraft.net" title="Buycraft"> <img src="/assets/mrep/uses/medievaltimes/logo-buycraft.png" alt="Buycraft" height="30" width="30"></a>
+          <a href="https://pterodactyl.io" title="Pterodactyl"> <img src="/assets/mrep/uses/medievaltimes/logo-pterodactyl.png" alt="Pterodactyl" height="30" width="30"></a>
+    {% else %}
           <a href="https://www.ovh.com/us/" title="OVH Hosting"> <img src="/assets/mrep/uses/dh/logo-ovh.png" alt="OVH Hosting" height="30" width="30"></a>
           <a href="https://github.com/" title="Our Github"> <img src="/assets/mrep/uses/dh/logo-github.png" alt="Our Github" height="30" width="30"></a>
           <a href="https://www.buycraft.net" title="Buycraft"> <img src="/assets/mrep/uses/dh/logo-buycraft.png" alt="Buycraft" height="30" width="30"></a>
           <a href="https://pterodactyl.io" title="Pterodactyl"> <img src="/assets/mrep/uses/dh/logo-pterodactyl.png" alt="Pterodactyl" height="30" width="30"></a>
+    {% endif %}
 {% endif %}
-          <p>Copyright &copy; 2020 Snowblind Networks | Design:<a href="https://hardcastle.xyz/"> Fonix</a> </p>
+          <p>Copyright &copy; 2021 Snowblind Networks | Design:<a href="https://hardcastle.xyz/"> Fonix</a> </p>
         </div>
       </div>
     </div>

@@ -1,12 +1,4 @@
-farmingplus:
-  - url: https://www.technicpack.net/modpack/farming-plus-test.1785619
-    content: Get the pack on Technic
-  - url: https://www.curseforge.com/minecraft/modpacks/dh-farming-plus
-    content: Get the pack on Curse
-  - url: ''
-    content: Visit the Farming Plus wiki
-  - url: https://www.curseforge.com/minecraft/modpacks/dh-farming-plus
-    content: Vote for us on Planet Minecraft
+# Add links for Medieval
 voltz:
   - url: /modpacks/launcher.html
     content: Get the pack on our launcher.
@@ -20,8 +12,3 @@ voltz:
     content: Vote for us on VoltzServers.com
   - url: https://technicservers.com/server/6DXrO9T8/digital-hazards-voltz-community
     content: Vote for us on TechnicServers.com
-launcher:
-  - url: http://launcher.snowblind.net.au:9274/SnowblindLauncher.exe
-    content: Download for Windows
-  - url: http://launcher.snowblind.net.au:9274/SnowblindLauncher.jar
-    content: Download for Mac / Linux
